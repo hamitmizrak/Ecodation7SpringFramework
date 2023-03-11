@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ecodation7SpringFramework:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Ecodation7SpringFramework</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Ecodation7SpringFramework-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Ecodation7SpringFramework:war exploded" />
+    </root>
+  </artifact>
+</component>
